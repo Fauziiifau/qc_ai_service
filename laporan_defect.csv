@@ -15,7 +15,7 @@
 12 Desember 2026;Penyok;Bending;Scrap tidak jatuh/nyangkut di atas die;4;Repair pembuangan scrap
 13 Desember 2026;Keropos;Welding Robot;Parameter tidak sesuai;5;Optimasi program welding
 15 Desember 2026;Undercut;Bending;Part terlalu dekat dengan die (clearance tidak cukup);13;Atur ulang posisi bending / repair die bending
-16 Desember 2026;Karat;Blank;Penyimpanan lembab, mudah terkena air;7;Perbaikan tempat penyimpanan material
+16 Desember 2026;Karat;Blank;Penyimpanan lembab; mudah terkena air;7;Perbaikan tempat penyimpanan material
 17 Desember 2026;Tidak flat;Bending;Stroke kurang turun;5;Menurunkan stroke (deepness) sesuai standar
 17 Desember 2026;Tinggi sebelah;Bending;Alignment die/stopper tidak center;3;Setting ulang die & stopper
 18 Desember 2026;NG Setting (getok);Welding Spot;Parameter tidak sesuai standar;8;Setting ulang paramater
@@ -40,7 +40,7 @@
 22 Januari 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;12;Perbaiki JIG dan program
 23 Januari 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;11;Perbaiki JIG dan program
 23 Januari 2026;Baret;Blank;Gesekan antar material pada storage incoming;8;Perbaikan tempat penyimpanan material
-24 Januari 2026;Karat;Blank;Penyimpanan lembab, mudah terkena air;9;Perbaikan tempat penyimpanan material
+24 Januari 2026;Karat;Blank;Penyimpanan lembab; mudah terkena air;9;Perbaikan tempat penyimpanan material
 26 Januari 2026;Keropos;Welding Robot;Parameter tidak sesuai;4;Optimasi program welding
 26 Januari 2026;Tidak masuk JIG;Blank;Dimensi part tidak sesuai standar;10;Setting ulang dan cek dimensi
 27 Januari 2026;Undercut;Bending;Part terlalu dekat dengan die (clearance tidak cukup);8;Atur ulang posisi bending / repair die bending
@@ -83,7 +83,7 @@
 4 Maret 2026;Penyok;Bending;Scrap tidak jatuh/nyangkut di atas die;10;Repair pembuangan scrap
 4 Maret 2026;Tidak masuk JIG;Welding Manual;Distorsi hasil welding;4;Repair JIG proses
 5 Maret 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;8;Perbaiki JIG dan program
-6 Maret 2026;Karat;Blank;Penyimpanan lembab, mudah terkena air;3;Perbaikan tempat penyimpanan material
+6 Maret 2026;Karat;Blank;Penyimpanan lembab; mudah terkena air;3;Perbaikan tempat penyimpanan material
 7 Maret 2026;Tidak masuk JIG;Bending;Baut aus menyebabkan stopper mudah bergerak;2;Ganti baut dan setting stopper
 9 Maret 2026;Jumping proses;Bending;Operator skip proses;6;Revisi SOP dan kontrol proses
 9 Maret 2026;Spatter;Welding Spot;Arus tinggi dan permukaan kotor;7;Bersihkan material dan setting parameter
@@ -107,7 +107,7 @@
 30 Maret 2026;Penyok;Bending;Tekanan berlebih;2;Setting Stroke sesuai standar
 31 Maret 2026;Penyok;Bending;Scrap tidak jatuh/nyangkut di atas die;5;Repair pembuangan scrap
 31 Maret 2026;Tidak masuk JIG;Bending;Baut aus menyebabkan stopper mudah bergerak;7;Ganti baut dan setting stopper
-1-Apr-26;Karat;Blank;Penyimpanan lembab, mudah terkena air;5;Perbaikan tempat penyimpanan material
+1-Apr-26;Karat;Blank;Penyimpanan lembab; mudah terkena air;5;Perbaikan tempat penyimpanan material
 2-Apr-26;Variasi;Bending;Variasi Spring Back;5;Tambahkan overbending (Kompensasi sudut)
 4-Apr-26;Gompal;Blank;Clearance punch & die tidak sesuai;8;Grinding die untuk memperbesar gap dan pastikan tidak over
 4-Apr-26;Visual bending crack;Bending;Tekanan dari ejector terlalu besar/tidak merata;3;Pendekkan / adjust tinggi ejector
