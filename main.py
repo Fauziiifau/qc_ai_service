@@ -10,7 +10,7 @@ class DefectData(BaseModel):
     proses: str
     jenis_defect: str
 
-@app.post("/predict")
+@app.post("/predict-action")
 def predict_action(data: DefectData):
     try:
         print(f"Defect yang diterima = '{data.jenis_defect}'")
