@@ -9,3 +9,7 @@ __pycache__/
 
 # File Rahasia
 .env
+
+# File sistem Windows
+Thumbs.db
+desktop.ini
