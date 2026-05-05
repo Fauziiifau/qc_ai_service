@@ -1,0 +1,11 @@
+# Lingkungan Virtual Python (Sangat besar dan tidak perlu di-push)
+.venv/
+venv/
+env/
+
+# File Cache & Sampah Sistem Python
+__pycache__/
+*.pyc
+
+# File Rahasia
+.env
