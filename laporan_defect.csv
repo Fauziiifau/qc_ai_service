@@ -1,114 +1,114 @@
-﻿Tanggal;Jenis defect;Proses;Penyebab;Jumlah;Tindakan Perbaikan
-1 Desember 2026;Gompal;Blank;Clearance punch & die tidak sesuai;12;Grinding die untuk memperbesar gap dan pastikan tidak over
-2 Desember 2026;Setting;Blank;Dimensi part tidak sesuai standar;6;Setting ulang dan cek dimensi
-3 Desember 2026;Tidak flat;Bending;Stroke kurang turun;2;Menurunkan stroke (deepness) sesuai standar
-3 Desember 2026;Overheat;Welding Spot;Parameter tidak sesuai;11;Revisi SOP dan setting ulang parameter
-4 Desember 2026;Keropos;Welding Manual;Penetrasi kurang;5;Atur arus dan teknik welding
-5 Desember 2026;Burry;Blank;Punch dan die tidak center;3;Setting ulang alignment punch dan die
-6 Desember 2026;Overheat;Welding Spot;Parameter tidak sesuai;7;Revisi SOP dan setting ulang parameter
-8 Desember 2026;Tidak masuk JIG;Bending;Baut aus menyebabkan stopper mudah bergerak;10;Ganti baut dan setting stopper
-8 Desember 2026;Variasi;Bending;Blok tengah kurang lebar;13;Tambahkan ganjelan di area yang kurang support
-9 Desember 2026;Gompal;Blank;Clearance punch & die tidak sesuai;8;Grinding die untuk memperbesar gap dan pastikan tidak over
-10 Desember 2026;Tidak masuk dimensi;Bending;Ukuran tidak sesuai;5;Setting ulang part
-11 Desember 2026;Nut miring;Welding Spot;JIG proses sudah aus;3;Ganti JIG proses
-12 Desember 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;8;Perbaiki JIG dan program
-12 Desember 2026;Penyok;Bending;Scrap tidak jatuh/nyangkut di atas die;4;Repair pembuangan scrap
-13 Desember 2026;Keropos;Welding Robot;Parameter tidak sesuai;5;Optimasi program welding
-15 Desember 2026;Undercut;Bending;Part terlalu dekat dengan die (clearance tidak cukup);13;Atur ulang posisi bending / repair die bending
+﻿Tanggal;Jenis defect;Proses;Penyebab;Jumlah;Tindakan Perbaikan;
+1 Desember 2026;Gompal;Blank;Clearance punch & die tidak sesuai;12;Grinding die untuk memperbesar gap dan pastikan tidak over;
+2 Desember 2026;Setting;Blank;Dimensi part tidak sesuai standar;6;Setting ulang dan cek dimensi;
+3 Desember 2026;Tidak flat;Bending;Stroke kurang turun;2;Menurunkan stroke (deepness) sesuai standar;
+3 Desember 2026;Overheat;Welding Spot;Parameter tidak sesuai;11;Revisi SOP dan setting ulang parameter;
+4 Desember 2026;Keropos;Welding Manual;Penetrasi kurang;5;Atur arus dan teknik welding;
+5 Desember 2026;Burry;Blank;Punch dan die tidak center;3;Setting ulang alignment punch dan die;
+6 Desember 2026;Overheat;Welding Spot;Parameter tidak sesuai;7;Revisi SOP dan setting ulang parameter;
+8 Desember 2026;Tidak masuk JIG;Bending;Baut aus menyebabkan stopper mudah bergerak;10;Ganti baut dan setting stopper;
+8 Desember 2026;Variasi;Bending;Blok tengah kurang lebar;13;Tambahkan ganjelan di area yang kurang support;
+9 Desember 2026;Gompal;Blank;Clearance punch & die tidak sesuai;8;Grinding die untuk memperbesar gap dan pastikan tidak over;
+10 Desember 2026;Tidak masuk dimensi;Bending;Ukuran tidak sesuai;5;Setting ulang part;
+11 Desember 2026;Nut miring;Welding Spot;JIG proses sudah aus;3;Ganti JIG proses;
+12 Desember 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;8;Perbaiki JIG dan program;
+12 Desember 2026;Penyok;Bending;Scrap tidak jatuh/nyangkut di atas die;4;Repair pembuangan scrap;
+13 Desember 2026;Keropos;Welding Robot;Parameter tidak sesuai;5;Optimasi program welding;
+15 Desember 2026;Undercut;Bending;Part terlalu dekat dengan die (clearance tidak cukup);13;Atur ulang posisi bending / repair die bending;
 16 Desember 2026;Karat;Blank;Penyimpanan lembab; mudah terkena air;7;Perbaikan tempat penyimpanan material
-17 Desember 2026;Tidak flat;Bending;Stroke kurang turun;5;Menurunkan stroke (deepness) sesuai standar
-17 Desember 2026;Tinggi sebelah;Bending;Alignment die/stopper tidak center;3;Setting ulang die & stopper
-18 Desember 2026;NG Setting (getok);Welding Spot;Parameter tidak sesuai standar;8;Setting ulang paramater
-5 Januari 2026;Gompal;Blank;Clearance punch & die tidak sesuai;3;Grinding die untuk memperbesar gap dan pastikan tidak over
-5 Januari 2026;Dent;Blank;Scrap tidak jatuh/nyangkut di atas die;5;Repair pembuangan scrap
-6 Januari 2026;Burry;Blank;Punch dan die tidak center;3;Setting ulang alignment punch dan die
-7 Januari 2026;Setting;Blank;Dimensi part tidak sesuai standar;8;Setting ulang dan cek dimensi
-8 Januari 2026;Tidak masuk JIG;Bending;Lower(die bawah) pecah;6;Ganti lower die yang rusak
-9 Januari 2026;Setting;Bending;Dimensi part tidak sesuai standar;1;Setting ulang dan cek dimensi
-10 Januari 2026;Tidak flat;Bending;Stroke kurang turun;2;Menurunkan stroke (deepness) sesuai standar
-10 Januari 2026;NG Setting (getok);Welding Spot;Parameter tidak sesuai standar;9;Setting ulang paramater
-12 Januari 2026;Tinggi sebelah;Bending;Alignment die/stopper tidak center;8;Setting ulang die & stopper
-12 Januari 2026;Tidak masuk JIG;Bending;Baut aus menyebabkan stopper mudah bergerak;4;Ganti baut dan setting stopper
-13 Januari 2026;Tidak masuk dimensi;Bending;Ukuran tidak sesuai;5;Setting ulang part
-14 Januari 2026;Overheat;Welding Spot;Parameter tidak sesuai;12;Revisi SOP dan setting ulang parameter
-15 Januari 2026;Salah nut;Welding Spot;Nut tercampur;10;Perbaiki sistem supply dan buat pokayoke
-17 Januari 2026;Nut miring;Welding Spot;JIG proses sudah aus;5;Ganti JIG proses
-19 Januari 2026;Keropos;Welding Manual;Penetrasi kurang;7;Atur arus dan teknik welding
-20 Januari 2026;Variasi;Bending;Variasi Spring Back;9;Tambahkan overbending (Kompensasi sudut)
-20 Januari 2026;Tidak masuk JIG;Welding Manual;Distorsi hasil welding;4;Repair JIG proses
-21 Januari 2026;Keropos;Welding Robot;Parameter tidak sesuai;3;Optimasi program welding
-22 Januari 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;12;Perbaiki JIG dan program
-23 Januari 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;11;Perbaiki JIG dan program
-23 Januari 2026;Baret;Blank;Gesekan antar material pada storage incoming;8;Perbaikan tempat penyimpanan material
+17 Desember 2026;Tidak flat;Bending;Stroke kurang turun;5;Menurunkan stroke (deepness) sesuai standar;
+17 Desember 2026;Tinggi sebelah;Bending;Alignment die/stopper tidak center;3;Setting ulang die & stopper;
+18 Desember 2026;NG Setting (getok);Welding Spot;Parameter tidak sesuai standar;8;Setting ulang paramater;
+5 Januari 2026;Gompal;Blank;Clearance punch & die tidak sesuai;3;Grinding die untuk memperbesar gap dan pastikan tidak over;
+5 Januari 2026;Dent;Blank;Scrap tidak jatuh/nyangkut di atas die;5;Repair pembuangan scrap;
+6 Januari 2026;Burry;Blank;Punch dan die tidak center;3;Setting ulang alignment punch dan die;
+7 Januari 2026;Setting;Blank;Dimensi part tidak sesuai standar;8;Setting ulang dan cek dimensi;
+8 Januari 2026;Tidak masuk JIG;Bending;Lower(die bawah) pecah;6;Ganti lower die yang rusak;
+9 Januari 2026;Setting;Bending;Dimensi part tidak sesuai standar;1;Setting ulang dan cek dimensi;
+10 Januari 2026;Tidak flat;Bending;Stroke kurang turun;2;Menurunkan stroke (deepness) sesuai standar;
+10 Januari 2026;NG Setting (getok);Welding Spot;Parameter tidak sesuai standar;9;Setting ulang paramater;
+12 Januari 2026;Tinggi sebelah;Bending;Alignment die/stopper tidak center;8;Setting ulang die & stopper;
+12 Januari 2026;Tidak masuk JIG;Bending;Baut aus menyebabkan stopper mudah bergerak;4;Ganti baut dan setting stopper;
+13 Januari 2026;Tidak masuk dimensi;Bending;Ukuran tidak sesuai;5;Setting ulang part;
+14 Januari 2026;Overheat;Welding Spot;Parameter tidak sesuai;12;Revisi SOP dan setting ulang parameter;
+15 Januari 2026;Salah nut;Welding Spot;Nut tercampur;10;Perbaiki sistem supply dan buat pokayoke;
+17 Januari 2026;Nut miring;Welding Spot;JIG proses sudah aus;5;Ganti JIG proses;
+19 Januari 2026;Keropos;Welding Manual;Penetrasi kurang;7;Atur arus dan teknik welding;
+20 Januari 2026;Variasi;Bending;Variasi Spring Back;9;Tambahkan overbending (Kompensasi sudut);
+20 Januari 2026;Tidak masuk JIG;Welding Manual;Distorsi hasil welding;4;Repair JIG proses;
+21 Januari 2026;Keropos;Welding Robot;Parameter tidak sesuai;3;Optimasi program welding;
+22 Januari 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;12;Perbaiki JIG dan program;
+23 Januari 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;11;Perbaiki JIG dan program;
+23 Januari 2026;Baret;Blank;Gesekan antar material pada storage incoming;8;Perbaikan tempat penyimpanan material;
 24 Januari 2026;Karat;Blank;Penyimpanan lembab; mudah terkena air;9;Perbaikan tempat penyimpanan material
-26 Januari 2026;Keropos;Welding Robot;Parameter tidak sesuai;4;Optimasi program welding
-26 Januari 2026;Tidak masuk JIG;Blank;Dimensi part tidak sesuai standar;10;Setting ulang dan cek dimensi
-27 Januari 2026;Undercut;Bending;Part terlalu dekat dengan die (clearance tidak cukup);8;Atur ulang posisi bending / repair die bending
-28 Januari 2026;Tidak masuk JIG;Bending;Baut aus menyebabkan stopper mudah bergerak;12;Ganti baut dan setting stopper
-29 Januari 2026;Underheat;Welding Spot;Parameter tidak sesuai;4;Revisi SOP pengecekkan torquee dan setting ulang parameter
-29 Januari 2026;Jumping proses;Bending;Operator skip proses;1;Revisi SOP dan kontrol proses
-30 Januari 2026;Hole miring;Bending;Penempatan posisi part tidak presisi;6;Setting stopper pada die
-31 Januari 2026;Penyok;Bending;Tekanan berlebih;9;Setting Stroke sesuai standar
-2 Februari 2026;Penyok;Bending;Scrap tidak jatuh/nyangkut di atas die;6;Repair pembuangan scrap
-3 Februari 2026;Variasi;Bending;Blok tengah kurang lebar;4;Tambahkan ganjelan di area yang kurang support
-4 Februari 2026;Tidak masuk JIG;Welding Manual;Distorsi hasil welding;3;Repair JIG proses
-4 Februari 2026;Variasi;Bending;Variasi Spring Back;8;Tambahkan overbending (Kompensasi sudut)
-5 Februari 2026;Visual bending crack;Bending;Tekanan dari ejector terlalu besar/tidak merata;5;Pendekkan / adjust tinggi ejector
-6 Februari 2026;Underheat;Welding Spot;Parameter tidak sesuai;3;Revisi SOP pengecekkan torquee dan setting ulang parameter
-7 Februari 2026;Spatter;Welding Spot;Arus tinggi dan permukaan kotor;6;Bersihkan material dan setting parameter
-9 Februari 2026;Hole miring;Bending;Penempatan posisi part tidak presisi;2;Setting stopper pada die
-9 Februari 2026;NG Setting (getok);Welding Spot;Parameter tidak sesuai standar;12;Setting ulang paramater
-10 Februari 2026;Spatter;Welding Manual;Arus tinggi dan permukaan kotor;7;Bersihkan material dan setting parameter
-11 Februari 2026;Nut miring;Welding Manual;JIG proses sudah aus;7;Repair JIG proses
-12 Februari 2026;Spatter;Welding Robot;Arus tinggi dan permukaan kotor;4;Bersihkan material dan setting parameter
-13 Februari 2026;Nut miring;Welding Robot;JIG proses sudah aus;8;Kalibrasi robot dan JIG Proses
-14 Februari 2026;Spatter;Welding Manual;Arus tinggi dan permukaan kotor;12;Bersihkan material dan setting parameter
-14 Februari 2026;Burry;Blank;Punch/die sudah aus;3;Grinding die untuk memperbesar GAP
-16 Februari 2026;Gompal;Blank;Clearance punch & die tidak sesuai;15;Grinding die untuk memperbesar gap dan pastikan tidak over
-18 Februari 2026;Tidak masuk JIG;Bending;Lower(die bawah) pecah;18;Ganti lower die yang rusak
-19 Februari 2026;Nut miring;Welding Manual;JIG proses sudah aus;11;Repair JIG proses
-19 Februari 2026;Overheat;Welding Spot;Parameter tidak sesuai;10;Revisi SOP dan setting ulang parameter
-20 Februari 2026;Keropos;Welding Manual;Penetrasi kurang;10;Atur arus dan teknik welding
-21 Februari 2026;Keropos;Welding Robot;Parameter tidak sesuai;16;Optimasi program welding
-23 Februari 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;7;Perbaiki JIG dan program
-23 Februari 2026;Baret;Blank;Gesekan antar material pada storage incoming;4;Perbaikan tempat penyimpanan material
-24 Februari 2026;Undercut;Bending;Part terlalu dekat dengan die (clearance tidak cukup);7;Atur ulang posisi bending / repair die bending
-25 Februari 2026;Underheat;Welding Spot;Parameter tidak sesuai;12;Revisi SOP pengecekkan torquee dan setting ulang parameter
-26 Februari 2026;Burry;Blank;Punch dan die tidak center;4;Setting ulang alignment punch dan die
-26 Februari 2026;Spatter;Welding Manual;Arus tinggi dan permukaan kotor;8;Bersihkan material dan setting parameter
-27 Februari 2026;Spatter;Welding Robot;Arus tinggi dan permukaan kotor;;Bersihkan material dan setting parameter
-28 Februari 2026;Dent;Blank;Scrap tidak jatuh/nyangkut di atas die;3;Repair pembuangan scrap
-2 Maret 2026;Tidak masuk JIG;Bending;Lower(die bawah) pecah;1;Ganti lower die yang rusak
-3 Maret 2026;Salah nut;Welding Spot;Nut tercampur;5;Perbaiki sistem supply dan buat pokayoke
-4 Maret 2026;Penyok;Bending;Scrap tidak jatuh/nyangkut di atas die;10;Repair pembuangan scrap
-4 Maret 2026;Tidak masuk JIG;Welding Manual;Distorsi hasil welding;4;Repair JIG proses
-5 Maret 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;8;Perbaiki JIG dan program
+26 Januari 2026;Keropos;Welding Robot;Parameter tidak sesuai;4;Optimasi program welding;
+26 Januari 2026;Tidak masuk JIG;Blank;Dimensi part tidak sesuai standar;10;Setting ulang dan cek dimensi;
+27 Januari 2026;Undercut;Bending;Part terlalu dekat dengan die (clearance tidak cukup);8;Atur ulang posisi bending / repair die bending;
+28 Januari 2026;Tidak masuk JIG;Bending;Baut aus menyebabkan stopper mudah bergerak;12;Ganti baut dan setting stopper;
+29 Januari 2026;Underheat;Welding Spot;Parameter tidak sesuai;4;Revisi SOP pengecekkan torquee dan setting ulang parameter;
+29 Januari 2026;Jumping proses;Bending;Operator skip proses;1;Revisi SOP dan kontrol proses;
+30 Januari 2026;Hole miring;Bending;Penempatan posisi part tidak presisi;6;Setting stopper pada die;
+31 Januari 2026;Penyok;Bending;Tekanan berlebih;9;Setting Stroke sesuai standar;
+2 Februari 2026;Penyok;Bending;Scrap tidak jatuh/nyangkut di atas die;6;Repair pembuangan scrap;
+3 Februari 2026;Variasi;Bending;Blok tengah kurang lebar;4;Tambahkan ganjelan di area yang kurang support;
+4 Februari 2026;Tidak masuk JIG;Welding Manual;Distorsi hasil welding;3;Repair JIG proses;
+4 Februari 2026;Variasi;Bending;Variasi Spring Back;8;Tambahkan overbending (Kompensasi sudut);
+5 Februari 2026;Visual bending crack;Bending;Tekanan dari ejector terlalu besar/tidak merata;5;Pendekkan / adjust tinggi ejector;
+6 Februari 2026;Underheat;Welding Spot;Parameter tidak sesuai;3;Revisi SOP pengecekkan torquee dan setting ulang parameter;
+7 Februari 2026;Spatter;Welding Spot;Arus tinggi dan permukaan kotor;6;Bersihkan material dan setting parameter;
+9 Februari 2026;Hole miring;Bending;Penempatan posisi part tidak presisi;2;Setting stopper pada die;
+9 Februari 2026;NG Setting (getok);Welding Spot;Parameter tidak sesuai standar;12;Setting ulang paramater;
+10 Februari 2026;Spatter;Welding Manual;Arus tinggi dan permukaan kotor;7;Bersihkan material dan setting parameter;
+11 Februari 2026;Nut miring;Welding Manual;JIG proses sudah aus;7;Repair JIG proses;
+12 Februari 2026;Spatter;Welding Robot;Arus tinggi dan permukaan kotor;4;Bersihkan material dan setting parameter;
+13 Februari 2026;Nut miring;Welding Robot;JIG proses sudah aus;8;Kalibrasi robot dan JIG Proses;
+14 Februari 2026;Spatter;Welding Manual;Arus tinggi dan permukaan kotor;12;Bersihkan material dan setting parameter;
+14 Februari 2026;Burry;Blank;Punch/die sudah aus;3;Grinding die untuk memperbesar GAP;
+16 Februari 2026;Gompal;Blank;Clearance punch & die tidak sesuai;15;Grinding die untuk memperbesar gap dan pastikan tidak over;
+18 Februari 2026;Tidak masuk JIG;Bending;Lower(die bawah) pecah;18;Ganti lower die yang rusak;
+19 Februari 2026;Nut miring;Welding Manual;JIG proses sudah aus;11;Repair JIG proses;
+19 Februari 2026;Overheat;Welding Spot;Parameter tidak sesuai;10;Revisi SOP dan setting ulang parameter;
+20 Februari 2026;Keropos;Welding Manual;Penetrasi kurang;10;Atur arus dan teknik welding;
+21 Februari 2026;Keropos;Welding Robot;Parameter tidak sesuai;16;Optimasi program welding;
+23 Februari 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;7;Perbaiki JIG dan program;
+23 Februari 2026;Baret;Blank;Gesekan antar material pada storage incoming;4;Perbaikan tempat penyimpanan material;
+24 Februari 2026;Undercut;Bending;Part terlalu dekat dengan die (clearance tidak cukup);7;Atur ulang posisi bending / repair die bending;
+25 Februari 2026;Underheat;Welding Spot;Parameter tidak sesuai;12;Revisi SOP pengecekkan torquee dan setting ulang parameter;
+26 Februari 2026;Burry;Blank;Punch dan die tidak center;4;Setting ulang alignment punch dan die;
+26 Februari 2026;Spatter;Welding Manual;Arus tinggi dan permukaan kotor;8;Bersihkan material dan setting parameter;
+27 Februari 2026;Spatter;Welding Robot;Arus tinggi dan permukaan kotor;;Bersihkan material dan setting parameter;
+28 Februari 2026;Dent;Blank;Scrap tidak jatuh/nyangkut di atas die;3;Repair pembuangan scrap;
+2 Maret 2026;Tidak masuk JIG;Bending;Lower(die bawah) pecah;1;Ganti lower die yang rusak;
+3 Maret 2026;Salah nut;Welding Spot;Nut tercampur;5;Perbaiki sistem supply dan buat pokayoke;
+4 Maret 2026;Penyok;Bending;Scrap tidak jatuh/nyangkut di atas die;10;Repair pembuangan scrap;
+4 Maret 2026;Tidak masuk JIG;Welding Manual;Distorsi hasil welding;4;Repair JIG proses;
+5 Maret 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;8;Perbaiki JIG dan program;
 6 Maret 2026;Karat;Blank;Penyimpanan lembab; mudah terkena air;3;Perbaikan tempat penyimpanan material
-7 Maret 2026;Tidak masuk JIG;Bending;Baut aus menyebabkan stopper mudah bergerak;2;Ganti baut dan setting stopper
-9 Maret 2026;Jumping proses;Bending;Operator skip proses;6;Revisi SOP dan kontrol proses
-9 Maret 2026;Spatter;Welding Spot;Arus tinggi dan permukaan kotor;7;Bersihkan material dan setting parameter
-10 Maret 2026;Nut miring;Welding Manual;JIG proses sudah aus;10;Repair JIG proses
-11 Maret 2026;Nut miring;Welding Robot;JIG proses sudah aus;15;Kalibrasi robot dan JIG Proses
-12 Maret 2026;Tidak flat;Bending;Stroke kurang turun;1;Menurunkan stroke (deepness) sesuai standar
-12 Maret 2026;Burry;Blank;Punch dan die tidak center;4;Setting ulang alignment punch dan die
-13 Maret 2026;Setting;Blank;Dimensi part tidak sesuai standar;6;Setting ulang dan cek dimensi
-14 Maret 2026;Tidak flat;Bending;Stroke kurang turun;8;Menurunkan stroke (deepness) sesuai standar
-15 Maret 2026;Tinggi sebelah;Bending;Alignment die/stopper tidak center;9;Setting ulang die & stopper
-15 Maret 2026;Tinggi sebelah;Bending;Alignment die/stopper tidak center;12;Setting ulang die & stopper
-16 Maret 2026;Tidak masuk dimensi;Bending;Ukuran tidak sesuai;4;Setting ulang part
-17 Maret 2026;Nut miring;Welding Spot;JIG proses sudah aus;6;Ganti JIG proses
-25 Maret 2026;Keropos;Welding Manual;Penetrasi kurang;8;Atur arus dan teknik welding
-26 Maret 2026;Hole miring;Bending;Penempatan posisi part tidak presisi;6;Setting stopper pada die
-26 Maret 2026;Tidak masuk JIG;Welding Manual;Distorsi hasil welding;2;Repair JIG proses
-27 Maret 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;3;Perbaiki JIG dan program
-28 Maret 2026;Tidak masuk JIG;Blank;Dimensi part tidak sesuai standar;6;Setting ulang dan cek dimensi
-29 Maret 2026;Variasi;Bending;Blok tengah kurang lebar;8;Tambahkan ganjelan di area yang kurang support
-29 Maret 2026;Hole miring;Bending;Penempatan posisi part tidak presisi;16;Setting stopper pada die
-30 Maret 2026;Penyok;Bending;Tekanan berlebih;2;Setting Stroke sesuai standar
-31 Maret 2026;Penyok;Bending;Scrap tidak jatuh/nyangkut di atas die;5;Repair pembuangan scrap
-31 Maret 2026;Tidak masuk JIG;Bending;Baut aus menyebabkan stopper mudah bergerak;7;Ganti baut dan setting stopper
-1-Apr-26;Karat;Blank;Penyimpanan lembab; mudah terkena air;5;Perbaikan tempat penyimpanan material
-2-Apr-26;Variasi;Bending;Variasi Spring Back;5;Tambahkan overbending (Kompensasi sudut)
-4-Apr-26;Gompal;Blank;Clearance punch & die tidak sesuai;8;Grinding die untuk memperbesar gap dan pastikan tidak over
-4-Apr-26;Visual bending crack;Bending;Tekanan dari ejector terlalu besar/tidak merata;3;Pendekkan / adjust tinggi ejector
-5-Apr-26;NG Setting (getok);Welding Spot;Parameter tidak sesuai standar;12;Setting ulang paramater
+7 Maret 2026;Tidak masuk JIG;Bending;Baut aus menyebabkan stopper mudah bergerak;2;Ganti baut dan setting stopper;
+9 Maret 2026;Jumping proses;Bending;Operator skip proses;6;Revisi SOP dan kontrol proses;
+9 Maret 2026;Spatter;Welding Spot;Arus tinggi dan permukaan kotor;7;Bersihkan material dan setting parameter;
+10 Maret 2026;Nut miring;Welding Manual;JIG proses sudah aus;10;Repair JIG proses;
+11 Maret 2026;Nut miring;Welding Robot;JIG proses sudah aus;15;Kalibrasi robot dan JIG Proses;
+12 Maret 2026;Tidak flat;Bending;Stroke kurang turun;1;Menurunkan stroke (deepness) sesuai standar;
+12 Maret 2026;Burry;Blank;Punch dan die tidak center;4;Setting ulang alignment punch dan die;
+13 Maret 2026;Setting;Blank;Dimensi part tidak sesuai standar;6;Setting ulang dan cek dimensi;
+14 Maret 2026;Tidak flat;Bending;Stroke kurang turun;8;Menurunkan stroke (deepness) sesuai standar;
+15 Maret 2026;Tinggi sebelah;Bending;Alignment die/stopper tidak center;9;Setting ulang die & stopper;
+15 Maret 2026;Tinggi sebelah;Bending;Alignment die/stopper tidak center;12;Setting ulang die & stopper;
+16 Maret 2026;Tidak masuk dimensi;Bending;Ukuran tidak sesuai;4;Setting ulang part;
+17 Maret 2026;Nut miring;Welding Spot;JIG proses sudah aus;6;Ganti JIG proses;
+25 Maret 2026;Keropos;Welding Manual;Penetrasi kurang;8;Atur arus dan teknik welding;
+26 Maret 2026;Hole miring;Bending;Penempatan posisi part tidak presisi;6;Setting stopper pada die;
+26 Maret 2026;Tidak masuk JIG;Welding Manual;Distorsi hasil welding;2;Repair JIG proses;
+27 Maret 2026;Tidak masuk JIG;Welding Robot;Distorsi / posisi tidak tepat;3;Perbaiki JIG dan program;
+28 Maret 2026;Tidak masuk JIG;Blank;Dimensi part tidak sesuai standar;6;Setting ulang dan cek dimensi;
+29 Maret 2026;Variasi;Bending;Blok tengah kurang lebar;8;Tambahkan ganjelan di area yang kurang support;
+29 Maret 2026;Hole miring;Bending;Penempatan posisi part tidak presisi;16;Setting stopper pada die;
+30 Maret 2026;Penyok;Bending;Tekanan berlebih;2;Setting Stroke sesuai standar;
+31 Maret 2026;Penyok;Bending;Scrap tidak jatuh/nyangkut di atas die;5;Repair pembuangan scrap;
+31 Maret 2026;Tidak masuk JIG;Bending;Baut aus menyebabkan stopper mudah bergerak;7;Ganti baut dan setting stopper;
+1 April 2026;Karat;Blank;Penyimpanan lembab; mudah terkena air;5;Perbaikan tempat penyimpanan material
+2 April 2026;Variasi;Bending;Variasi Spring Back;5;Tambahkan overbending (Kompensasi sudut);
+3 April 2026;Gompal;Blank;Clearance punch & die tidak sesuai;8;Grinding die untuk memperbesar gap dan pastikan tidak over;
+4 April 2026;Visual bending crack;Bending;Tekanan dari ejector terlalu besar/tidak merata;3;Pendekkan / adjust tinggi ejector;
+5 April 2026;NG Setting (getok);Welding Spot;Parameter tidak sesuai standar;12;Setting ulang paramater;
